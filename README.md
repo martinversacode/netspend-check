@@ -37,7 +37,7 @@ A robust and **multithreaded email validation tool** designed for Netspend accou
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/martinversacode/netspend-checker.git
+git clone https://github.com/martinversacode/netspend-check.git
 cd netspend-checker
 ````
 
