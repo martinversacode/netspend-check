@@ -81,7 +81,7 @@ user:pass@192.168.1.1:8888
 ### 3\. Run the Script
 
 ```bash
-python netspend_checker.py
+python gass.py
 ```
 
 The script will prompt you to enter the email list filename and the desired number of threads.
